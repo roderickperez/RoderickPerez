@@ -1,7 +1,7 @@
 # Hi 👋, I am RODERICK Perez
 ## Welcome to my geo{DataScience} Repository
 
-![avataaars](https://user-images.githubusercontent.com/9334399/88468644-2c3b4500-ceac-11ea-81ed-9c2c5426e461.png)
+![avataaars](https://user-images.githubusercontent.com/9334399/88468860-ea5fce00-ceae-11ea-82cd-c4ed2bff84c1.png)
 
 Here are some ideas to get you started:
 
